@@ -1,0 +1,11 @@
+header {
+  background: no-repeat url(../images/Optiseo_logo.svg);
+  background-position: right 2% top 50%;
+  background-size: 15%;
+}
+
+.navbar-toggler-icon {
+  background: no-repeat url(../images/Optiseo_logo.svg) !important;
+  background-size: cover !important;
+}
+/*# sourceMappingURL=style.css.map */
